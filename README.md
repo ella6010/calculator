@@ -1,4 +1,4 @@
-```
+
 # Calculator Project
 
 🎉 **Calculator Project**는 HTML, CSS, JavaScript를 이용해 간단한 계산기 기능을 구현한 웹 애플리케이션입니다. 기본적인 사칙연산 및 다양한 스타일링 기능을 포함하여 사용자에게 직관적이고 간편한 계산 경험을 제공합니다.
@@ -68,4 +68,3 @@
 - `feature/calculate-function`: 기본 계산 기능 추가
 - `feature/error-handling`: 오류 처리 기능 추가
 - `feature/button-styling`: 버튼 hover 및 특수 버튼 스타일링 추가
-```
